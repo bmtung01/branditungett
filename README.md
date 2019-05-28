@@ -29,3 +29,5 @@ The javascript functions I created are:
 .. what function does ex( animate() is used to move the elements in the info div across the screen)
 
 ```
+
+I used https://www.pdftohtml.net/ to convert my resume from pdf to html. 
