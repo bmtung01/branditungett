@@ -23,6 +23,8 @@ The class(es) I created are:
 
 5. headerlinks: formatting for headerlinks that occur on each page
 
+6. tile: used to place content tiles into their own containers and columns
+
 ```
 
 
