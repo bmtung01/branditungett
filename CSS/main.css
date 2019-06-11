@@ -1,5 +1,30 @@
-p {
-color: BLUE;
+
+
+
+.title {
+
+    color: red;
+
+
+
+
+}
+
+.subtitle {
+
+    color: blue;
+
+}
+
+
+.description {
+    color: yellow;
+
+
+}
+
+.headerlinks {
+    color: orange;
 
 
 }
