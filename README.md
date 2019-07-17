@@ -5,25 +5,20 @@
 Personal resume page / portfolio website
 
 ```
+## Bootstrap Usage
 
+```
+Bootstrap was used heavily throughout the project in order to provide responsive design and overall formatting of the project. Key functions used were the navbar option and the card formatting for content tiles.
+```
 
 
 ## Custom CSS Classes
 ```
 The class(es) I created are:
 
-1. class name ex( .main-info-section )
-.. what class does, ex( adds padding & changes background color of .main-info-section )
+.babc ---> brandi's awesome background color: describes the background color for the body of all pages
 
-2. title : each content "tile" has a title
-
-3. subtitle: each content "tile" may have a subtitle
-
-4. description: each content "tile" may have a description
-
-5. headerlinks: formatting for headerlinks that occur on each page
-
-6. tile: used to place content tiles into their own containers and columns
+.bordcol ---> border color: unoriginal name for border color for the navbar links, but also includes other border attributes
 
 ```
 
@@ -33,9 +28,6 @@ The class(es) I created are:
 ```
 The javascript functions I created are:
 
-1. function name ex( animate() )
-.. what function does ex( animate() is used to move the elements in the info div across the screen)
 
 ```
 
-I used https://www.pdftohtml.net/ to convert my resume from pdf to html. 

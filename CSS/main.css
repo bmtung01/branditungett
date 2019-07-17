@@ -1,36 +1,12 @@
-
-
-
-.title {
-
-    color: red;
-
-
+.babc {
+        background-color: #FFFEC4;
 
 
 }
 
-.subtitle {
-
-    color: blue;
-
-}
-
-
-.description {
-    color: yellow;
-
-
-}
-
-.headerlinks {
-    color: orange;
-
-
-}
-.LI-profile-badge {
-    border-block-color: 3,2;
-    
+.bordcol {
+        border-color: #FFFEC4;
+        
 
 
 }
