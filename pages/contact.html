@@ -47,6 +47,8 @@
                 </div>  
             </nav>
             <br>
+
+<!--This is a basic container in Bootstrap that I set to go on top of my contact form. Could use better design.-->
             <div class="container">
                 <br>
                 <h1>Contact Information</h1>
@@ -54,6 +56,9 @@
                 <p>Email: bmtung01@louisville.edu</p>
                 <br>
             </div>
+
+<!--This is a form I created with validation. Bootstrap has built in formatting for validation, but did not have the
+method to implement validation built in. I used input types to help guide the form validation.-->
             <div class="container">
                     <h2>Send Me a Message!</h2>
                     <form action="/action_page.php" class="needs-validation" novalidate>
@@ -75,7 +80,8 @@
                             <div class="valid-feedback">Thanks.</div>
                             <div class="invalid-feedback">Please write a message.</div>
                         </div>
-                    
+
+<!--This is the submission button for the contact form. When clicked, it triggers the form validation. Other than that, it doesn't work.-->
                     <button type="submit" class="btn btn-primary"> Send Your Message </button>
                     </form>
                 </div>
