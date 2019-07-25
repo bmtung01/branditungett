@@ -1,5 +1,5 @@
-# Project Name
-Brandi Tungett's Resume
+# Brandi Tungett's Portfolio
+
 
 ## Description
 
