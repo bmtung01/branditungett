@@ -1,4 +1,4 @@
-# Project_Name
+# Project Name
 Brandi Tungett's Resume
 
 ## Description
