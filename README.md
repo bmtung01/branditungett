@@ -20,13 +20,15 @@ The class(es) I created are:
 
 .bordcol ---> border color: unoriginal name for border color for the navbar links, but also includes other border attributes
 
+.bmt-header ---> provides background and text color for the header in my content cards
+
 ```
 
 
 
 ## Custom JavaScript Functions
 ```
-The javascript functions I created are:
+I wrote a custom Javascript function in custom.js for my contact page. The function is used for form validation. 
 
 
 ```
