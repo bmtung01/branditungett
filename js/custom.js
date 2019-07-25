@@ -1,10 +1,10 @@
-// Disable form submissions if there are invalid fields
+// this is my form validation code
 (function() {
     'use strict';
     window.addEventListener('load', function() {
-      // Get the forms we want to add validation styles to
-    var forms = document.getElementsByClassName('needs-validation');
-      // Loop over them and prevent submission
+      // the following targets the correct form, I used a class to get us there
+    var forms = document.getElementsByClassName('validation-required');
+      // Loop over them and prevent submission, will display messages under required fields if not validated
     var validation = Array.prototype.filter.call(forms, function(form) {
         form.addEventListener('submit', function(event) {
         if (form.checkValidity() === false) {
