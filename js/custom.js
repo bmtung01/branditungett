@@ -16,7 +16,7 @@
             // The fields in the form are being checked for being filled dependent on format (text/email), if they are not filled it will loop
             form.classList.add('was-validated');
         }
-        // Contact form submit is successful, if validation is true
+        // Contact form submit is successful, if validation is true, it'll reset the input and restart the validation process
         else {
           // Show user an alert
           alert('Thanks for reaching out!');
