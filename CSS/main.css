@@ -5,8 +5,9 @@
 }
 
 .bordcol {
-        border-color: #FFFEC4;
-        
+        border-color: black;
+        border-style: solid;
+        background-color:white;
 
 
 }
