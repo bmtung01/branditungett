@@ -1,7 +1,7 @@
 .babc {
         background-color: #FFFEC4;
 
-
+/* .babc brandi's awesome background color: describes the background color for the body of all pages */
 }
 
 .bordcol {
@@ -9,7 +9,7 @@
         border-style: solid;
         background-color:white;
 
-
+/* .bordcol border color: unoriginal name for border color for the navbar links, but also includes other border attributes */
 }
 
 
@@ -17,6 +17,6 @@
         background-color: red;
         color: white;
 
-
+/* .bmt-header provides background and text color for the header in my content cards */
 
 }
